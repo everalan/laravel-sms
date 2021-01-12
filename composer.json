@@ -1,5 +1,5 @@
 {
-    "name": "toplan/laravel-sms",
+    "name": "everalan/laravel-sms",
     "description": "A mobile phone number validation solution based on laravel",
     "license": "MIT",
     "keywords": ["sms", "mobile", "phone", "laravel", "laravel-sms"],
